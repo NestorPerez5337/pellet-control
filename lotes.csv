@@ -1,0 +1,6 @@
+lote,fecha,material,kg_entrada,kg_pellet,turno
+1,2026-10-01,polietileno,1200,1020,mañana
+2,2026-10-01,polietileno,1100,935,tarde
+3,2026-10-02,polietileno,1300,1105,mañana
+4,2026-10-02,polietileno,900,720,tarde
+5,2026-10-03,polietileno,1250,1060,mañana
